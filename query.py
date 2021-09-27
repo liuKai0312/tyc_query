@@ -23,6 +23,7 @@ GET_PROXY_IP_BY_FREE = True
 
 GET_RESPONSE_BY_PROXY = False
 
+# 20210927 更新高新科技公司爬取注释
 
 def main():
     # updateComponyInfoByCompanyName([1,"腾讯"])
